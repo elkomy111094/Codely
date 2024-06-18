@@ -1,0 +1,29 @@
+<svg height="43.468" viewBox="0 0 274.315 43.468" width="274.315" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient gradientUnits="objectBoundingBox" id="linear-gradient" x1="1.291" x2="0.082" y1="0.5"
+            y2="0.5">
+            <stop offset="0" stop-color="#89f995" />
+            <stop offset="1" stop-color="#32c8d9" />
+        </linearGradient>
+    </defs>
+    <g data-name="Group 46786" id="Group_46786" transform="translate(-77.342 -770.532)">
+        <g data-name="Group 46776" id="Group_46776" transform="translate(43.342 124.532)">
+            <g data-name="Rectangle 16144" fill="none" id="Rectangle_16144"
+                stroke="#707070" stroke-dasharray="5" stroke-width="0.4" transform="translate(34 646)">
+                <rect height="43.468" rx="12" stroke="none" width="216" />
+                <rect fill="none" height="43.068" rx="11.8" width="215.6" x="0.2" y="0.2" />
+            </g>
+            <text fill="#1c0f54" font-family="SegoeUI, Segoe UI" font-size="24"
+                id="ASDFGiuuiHJHG" transform="translate(142 673.389)">
+                <tspan x="-85.57" y="0">ASDFGiuuiHJHG</tspan>
+            </text>
+            <path d="M50,0H250.391c5.58,0,10.1,4.1,10.1,9.151V34.317c0,5.054-4.524,9.151-10.1,9.151H76.1Z" data-name="Path 28033"
+                fill="url(#linear-gradient)"
+                id="Path_28033" transform="translate(47.82 646)" />
+            <text data-name="احصل علي الكود" fill="#fff" font-family="SegoeUI, Segoe UI"
+                font-size="18" id="احصل_علي_الكود" transform="translate(210 670.734)">
+                <tspan x="-62.046" y="0">احصل علي الكود</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
